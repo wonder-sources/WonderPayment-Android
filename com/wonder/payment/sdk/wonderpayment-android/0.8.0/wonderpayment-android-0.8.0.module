@@ -34,11 +34,11 @@
         {
           "name": "wonderpayment-android-0.8.0.aar",
           "url": "wonderpayment-android-0.8.0.aar",
-          "size": 3380645,
-          "sha512": "2781c8eee50e1aa67a67ffce123f101bd629e2e9f6e7cc3dafe622041574b0872fd7531908b706e6a0efa57e8ada6fb4f179eb26ffe3aa51e2890afa2ac82294",
-          "sha256": "ead02cb7c2af01e2a43141e56c1822a2581bc66a1597fe74b99b58a2225253d0",
-          "sha1": "865a708dd034264122a1c0a684f6612459023c90",
-          "md5": "71cfe7389964c75106323cf52e9e200c"
+          "size": 3382266,
+          "sha512": "3c43631c6e8924614756375e9da73c3aac270b547d4e6ac536d0dbd469c283393655d248273cf904789d361cd5bce3a8cd03228b502afe00b3822fd26d7e0b7c",
+          "sha256": "b4c67d0b3dbcdafd013cae91168c4e5550bb0cf6e9efffe13afd871a50836e5c",
+          "sha1": "e74b8d69b894725b49b8a6c63ce7cfa7030d531d",
+          "md5": "dc8e20bcc36138759c86efb67b3e9389"
         }
       ]
     },
@@ -159,11 +159,11 @@
         {
           "name": "wonderpayment-android-0.8.0.aar",
           "url": "wonderpayment-android-0.8.0.aar",
-          "size": 3380645,
-          "sha512": "2781c8eee50e1aa67a67ffce123f101bd629e2e9f6e7cc3dafe622041574b0872fd7531908b706e6a0efa57e8ada6fb4f179eb26ffe3aa51e2890afa2ac82294",
-          "sha256": "ead02cb7c2af01e2a43141e56c1822a2581bc66a1597fe74b99b58a2225253d0",
-          "sha1": "865a708dd034264122a1c0a684f6612459023c90",
-          "md5": "71cfe7389964c75106323cf52e9e200c"
+          "size": 3382266,
+          "sha512": "3c43631c6e8924614756375e9da73c3aac270b547d4e6ac536d0dbd469c283393655d248273cf904789d361cd5bce3a8cd03228b502afe00b3822fd26d7e0b7c",
+          "sha256": "b4c67d0b3dbcdafd013cae91168c4e5550bb0cf6e9efffe13afd871a50836e5c",
+          "sha1": "e74b8d69b894725b49b8a6c63ce7cfa7030d531d",
+          "md5": "dc8e20bcc36138759c86efb67b3e9389"
         }
       ]
     }
