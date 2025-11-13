@@ -3,7 +3,7 @@
   "component": {
     "group": "com.wonder.payment.sdk",
     "module": "wonderpayment-android",
-    "version": "0.8.5",
+    "version": "0.8.6",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -32,13 +32,13 @@
       ],
       "files": [
         {
-          "name": "wonderpayment-android-0.8.5.aar",
-          "url": "wonderpayment-android-0.8.5.aar",
-          "size": 1391653,
-          "sha512": "e783089c7cc34960321c18226f47b5c4b1847f7b00b6f87fb61e58441480ff388a39a170ac25a743a8b9ccc67f2d15cea843d8afc386d9f2bb30eca985a82b70",
-          "sha256": "ceb196c9e5400546397947ec041eb98c2b668a3777000a202b807751a033fdaa",
-          "sha1": "a7d9f5e6dbfe7c97ab2f62a300cb2897aea36d39",
-          "md5": "fd65bc31b363950a5e077d6b335b969b"
+          "name": "wonderpayment-android-0.8.6.aar",
+          "url": "wonderpayment-android-0.8.6.aar",
+          "size": 1391642,
+          "sha512": "ccfb6a443f791634248fe43973af783c1dce5bde91156011258c9dc2a5ffcb6af1b49f9800cf5243b3d94a3950e06786b5cd27762528f555e3dc23b471eae4d8",
+          "sha256": "57fc06922318707f94e44b318d71f828da5443996b7615aeea70e67e5c8b8a64",
+          "sha1": "50e4f5cc76b5276c160aec86723d4e2e3a1f44c7",
+          "md5": "a31409080a649b0d66ae1c5be1fa31ee"
         }
       ]
     },
@@ -157,13 +157,13 @@
       ],
       "files": [
         {
-          "name": "wonderpayment-android-0.8.5.aar",
-          "url": "wonderpayment-android-0.8.5.aar",
-          "size": 1391653,
-          "sha512": "e783089c7cc34960321c18226f47b5c4b1847f7b00b6f87fb61e58441480ff388a39a170ac25a743a8b9ccc67f2d15cea843d8afc386d9f2bb30eca985a82b70",
-          "sha256": "ceb196c9e5400546397947ec041eb98c2b668a3777000a202b807751a033fdaa",
-          "sha1": "a7d9f5e6dbfe7c97ab2f62a300cb2897aea36d39",
-          "md5": "fd65bc31b363950a5e077d6b335b969b"
+          "name": "wonderpayment-android-0.8.6.aar",
+          "url": "wonderpayment-android-0.8.6.aar",
+          "size": 1391642,
+          "sha512": "ccfb6a443f791634248fe43973af783c1dce5bde91156011258c9dc2a5ffcb6af1b49f9800cf5243b3d94a3950e06786b5cd27762528f555e3dc23b471eae4d8",
+          "sha256": "57fc06922318707f94e44b318d71f828da5443996b7615aeea70e67e5c8b8a64",
+          "sha1": "50e4f5cc76b5276c160aec86723d4e2e3a1f44c7",
+          "md5": "a31409080a649b0d66ae1c5be1fa31ee"
         }
       ]
     }
